@@ -1,1 +1,1 @@
-print("torsh tare")
+print("torsh vash")
